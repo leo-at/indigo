@@ -5,14 +5,14 @@ layout: page
 <h1>About Me</h1>
 
 ![Hadrians Wall][1]<!--{: class="bigger-image" }-->
-<figcaption class="caption">Me on Hadrian's Wall \| Photo by Joel Atkinson</figcaption>
+<figcaption class="caption">Me on Hadrian's Wall. Photo by Joel Atkinson</figcaption>
 
 <p>I am a software developer and writer, working at Dun & Bradstreet, and finishing my last semester for a BS in Computer Science from Kutztown University. My hobbies and interests include cooking, buying too many cooking related gadgets, reading, taking pictures, politics and traveling.</p>
 
 <p>I have an eclectic resume. I graduated from Lehigh University in 2014 with a BA in English. Since then I have worked a variety of jobs including as a prep cook, a radio advertisement salesman, a stadium concessions worker, a cafe manager, a medical market researcher, a banquet server, and a bookseller. My favorite job, and the most significant experience of my life so far, was working on the Bernie Sanders 2016 campaign for the Iowa and Kansas caucuses.</p>
 
 ![Bernie & Me][2]
-<figcaption class="caption">The Senator and Me \| Photo by Melina Cohen</figcaption>
+<figcaption class="caption">The Senator and Me.  Photo by Melina Cohen</figcaption>
 
 <p>Working for the campaign allowed me to explore my passion for politics, meet many amazing people, and discover a deep interest in data. My desire to both create better tools to utilize data and find meaning in large data sets drove me to return to college. With my upcoming graduation I am excited to put my new skills to use.</p>
 
