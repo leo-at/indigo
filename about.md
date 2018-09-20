@@ -5,6 +5,7 @@ layout: page
 <h1>About Me</h1>
 
 ![Hadrians Wall][1]<!--{: class="bigger-image" }-->
+<figcaption class="caption">Me on Hadrian's Wall \| Photo by Joel Atkinson</figcaption>
 
 <p>I am a software developer and writer, working at Dun & Bradstreet, and finishing my last semester for a BS in Computer Science from Kutztown University. My hobbies and interests include cooking, buying too many cooking related gadgets, reading, taking pictures, politics and traveling.</p>
 
