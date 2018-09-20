@@ -10,7 +10,10 @@ layout: page
 
 <p>I have an eclectic resume. I graduated from Lehigh University in 2014 with a BA in English. Since then I have worked a variety of jobs including as a prep cook, a radio advertisement salesman, a stadium concessions worker, a cafe manager, a medical market researcher, a banquet server, and a bookseller. My favorite job, and the most significant experience of my life so far, was working on the Bernie Sanders 2016 campaign for the Iowa and Kansas caucuses.</p>
 
-<p>Working in politics allowed me to explore my passion for politics, meet many amazing people, and discover a deep interest in data. My desire to both create better tools to utilize data and find meaning in large data sets drove me to return to college. With my upcoming graduation I am excited to put my new skills to use.</p>
+![Bernie & Me][2]
+<figcaption class="caption">The Senator and Me Photo by Melina Cohen</figcaption>
+
+<p>Working for the campaign allowed me to explore my passion for politics, meet many amazing people, and discover a deep interest in data. My desire to both create better tools to utilize data and find meaning in large data sets drove me to return to college. With my upcoming graduation I am excited to put my new skills to use.</p>
 
 <p>I'm hoping I can combine my professional and personal interests to create (at least moderately) entertaining posts here regularly. Thanks for visitng.</p>
 <!--
@@ -43,4 +46,5 @@ layout: page
 </ul>
 -->
 
-[1]: "www.leoatlarge.com/assets/images/HadriansWall.jpg"
+[1]: http://www.leoatlarge.com/assets/images/HadriansWall.jpg
+[2]: http://www.leoatlarge.com/assets/images/Bernie&Me.jpg
